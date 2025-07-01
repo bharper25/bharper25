@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there my nane is Brandon Harper 👋
 
 <!--
 **bharper25/bharper25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
